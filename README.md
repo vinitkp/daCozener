@@ -1,4 +1,4 @@
-**tambola**
+**daCozener- tambola**
 =======
 
 This is a online tambola(Houzie) playing web application made For DA-IICT techno-cultural fest Synapse as an online fun event.
